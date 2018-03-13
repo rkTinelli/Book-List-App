@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">Book List</string>
+
+    <string-array name="genero">
+        <item>Categoria</item>
+        <item>Administração</item>
+        <item>Artes</item>
+        <item>Autoajuda</item>
+        <item>Aventura</item>
+        <item>Biografias</item>
+        <item>Ciências</item>
+        <item>Diversos</item>
+        <item>Economia</item>
+        <item>Ficção Cientifíca</item>
+        <item>Ficção Suspense</item>
+        <item>Humor</item>
+        <item>Infantil</item>
+        <item>Poesia</item>
+        <item>Psicologia</item>
+        <item>Religião</item>
+        <item>Quadrinhos</item>
+        <item>Romance</item>
+        <item>Terror</item>
+        <item>Turismo</item>
+        <item>Suspense</item>
+    </string-array>
+
 </resources>
